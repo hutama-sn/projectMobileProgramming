@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">EzyFoods</string>
+
+    <string-array name="drinks_name">
+        <item>Air Mineral</item>
+        <item>Jus Apel</item>
+        <item>Jus Mangga</item>
+        <item>Jus Alpukat</item>
+    </string-array>
+    <string-array name="harga">
+        <item>Rp. 5000</item>
+        <item>Rp. 8000</item>
+        <item>Rp. 12000</item>
+        <item>Rp. 15000</item>
+    </string-array>
+</resources>
